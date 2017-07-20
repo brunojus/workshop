@@ -485,10 +485,6 @@ h6,
 #header3-8 .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons3-6 .mbr-section-title,
-#social-buttons3-6 .btn-social {
-  color: #fff;
-}
 #menu-2m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -559,10 +555,6 @@ h6,
 #header3-2p .mbr-section-title,
 #header3-2p .mbr-section-subtitle {
   text-align: center;
-}
-#social-buttons3-2s .mbr-section-title,
-#social-buttons3-2s .btn-social {
-  color: #fff;
 }
 #menu-2t .hide-buttons .nav-btn {
   display: none !important;
@@ -635,10 +627,6 @@ h6,
 #header3-2w .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons3-2z .mbr-section-title,
-#social-buttons3-2z .btn-social {
-  color: #fff;
-}
 #menu-30 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -709,10 +697,6 @@ h6,
 #header3-33 .mbr-section-title,
 #header3-33 .mbr-section-subtitle {
   text-align: center;
-}
-#social-buttons3-36 .mbr-section-title,
-#social-buttons3-36 .btn-social {
-  color: #fff;
 }
 #menu-37 .hide-buttons .nav-btn {
   display: none !important;
@@ -785,10 +769,6 @@ h6,
 #header3-3a .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons3-3d .mbr-section-title,
-#social-buttons3-3d .btn-social {
-  color: #fff;
-}
 #menu-3e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -860,10 +840,6 @@ h6,
 #header3-3h .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons3-3k .mbr-section-title,
-#social-buttons3-3k .btn-social {
-  color: #fff;
-}
 #menu-3l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -931,10 +907,6 @@ h6,
 #menu-3l .close-icon::after {
   background-color: #ffffff;
 }
-#social-buttons3-3r .mbr-section-title,
-#social-buttons3-3r .btn-social {
-  color: #fff;
-}
 #menu-3s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1001,8 +973,4 @@ h6,
 #menu-3s .close-icon::before,
 #menu-3s .close-icon::after {
   background-color: #ffffff;
-}
-#social-buttons3-3y .mbr-section-title,
-#social-buttons3-3y .btn-social {
-  color: #fff;
 }
