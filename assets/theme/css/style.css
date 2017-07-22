@@ -5,6 +5,16 @@
 .container {
   position: relative; }
 
+#img-centro{
+width:100px;
+height:100px;
+position:absolute;
+top:50%;
+left:50%;
+margin-top:-50px;
+margin-left:-50px;
+}
+
 .btn {
   margin-bottom: 0.5rem; }
   .btn + .btn {
