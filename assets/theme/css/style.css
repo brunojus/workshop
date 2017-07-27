@@ -518,6 +518,13 @@ p.lead,
   margin-bottom: 1.5625rem;
   margin-top: 3.5rem; }
 
+  .display-21 {
+  font-size: 3rem;
+  font-weight: 600;
+  letter-spacing: -1px;
+  margin-bottom: -80px;
+  margin-top: -10px; }
+
 .display-3 {
   font-size: 2.5rem;
   font-weight: 600;
@@ -561,7 +568,7 @@ p.lead,
 .alert {
   border-radius: 0;
   border: 0;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial Narrow', sans-serif;
   font-size: 0.875rem;
   line-height: 1.5;
   margin-bottom: 1.875rem;
@@ -599,18 +606,18 @@ p.lead,
  * TYPOGRAPHY
  */
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial Narrow', sans-serif;
   color: #232323; }
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6,
 .display-1, .display-2, .display-3, .display-4 {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial Narrow', sans-serif;
   word-break: break-word;
   word-wrap: break-word; }
 
 input, textarea {
-  font-family: "Arial"; }
+  font-family: 'Arial Narrow'; }
 
 input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
   transition-delay: 9999s;
@@ -690,7 +697,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   display: block;
   font-weight: 400;
   font-size: 17px;
-  font-family: "Arial";
+  font-family: 'Arial Narrow';
   line-height: 26px;
   color: #8c8c8c;
   margin-bottom: 30px; }
@@ -705,7 +712,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin-bottom: 1.6875rem; }
 .mbr-section-hero .mbr-section-lead {
   color: #fff;
-  font-family: Arial Narrow;
+  font-family: 'Arial Narrow';
   font-size: 1.5rem;
   font-style: italic;
   margin-top: -1em; }
